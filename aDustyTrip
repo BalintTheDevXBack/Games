@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/d1a3855463b5a69db0611eb912aa85bb43c66e69449f5867520ab79a509360a4/download"))()
+script_key = "test"
+loadstring(game:HttpGet("https://lua.services/api/scripts/b3232f09cf6d16e8d76377f03b9723ef/loader"))()
